@@ -25,31 +25,31 @@ $ git clone https://github.com/catalyn98/MovieApp-application.git
 # Web application screenshots 
 
 1.Splash screen
-<img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/1.Splashscreen.jpg" />
+![]<img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/1.Splashscreen.jpg" =250X250/>
 
 <details>
   <summary>More Screenshots</summary>
-  2.Movies page
+  2.Prefernces screen
   <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/2.PreferencesScreen.jpg" />
 
-  3.Blog page
+  3.Choose actors screen
   <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/3.ChooseActorsScreen.jpg" />
 
-  4.Team page
+  4.Choose genres screen
   <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/4.ChooseGenresScreen.jpg" />
 
-  5.Contact us page
+  5.List of movies screen
   <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/5.ListOfMoviesScreen.jpg" />
 
-  6.View profile
+  6.Details movies screen
   <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/6.DetailsMoviesScreen.jpg" />
 
-  7.Settings account
+  7.Favourites movies screen
   <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/7.FavoritesMoviesScreen.jpg" />
 
-  8.Seen movies by user
+  8.Watched movies screen
   <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/8.WatchedMoviesScreen.jpg" />
 
-  9.Movies details page
+  9.Application menu
   <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/9.ApplicationMenu.jpg" />
 </details>
