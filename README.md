@@ -25,7 +25,7 @@ $ git clone https://github.com/catalyn98/MovieApp-application.git
 # Web application screenshots 
 
 1.Splash screen
-![]<img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/1.Splashscreen.jpg" =250X250/>
+<img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/1.Splashscreen.jpg" width="60" height="100"/>
 
 <details>
   <summary>More Screenshots</summary>
