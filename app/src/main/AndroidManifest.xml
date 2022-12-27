@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mobiversal.movieapplication" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:icon="@drawable/iconmovieapp"
+        android:label="Movie application"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <!--activity for ActivityMenuHamburger-->
+        <activity
+            android:name=".ActivityMenuHamburger"
+            android:label="@string/title_activity_menu_hamburger"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+
+        <!--activity for Genres-->
+        <activity android:name=".genres_list.Genres" />
+        <!--activity for Actors-->
+        <activity android:name=".actors_list.Actors" />
+
+        <!--activity for SplashScreen-->
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--activity for MainActivity-->
+        <activity android:name=".MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+
+        <!--activity for MovieDetailsActivity-->
+        <activity android:name=".movie.MovieDetailsActivity">
+
+        </activity>
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
