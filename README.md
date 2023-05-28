@@ -15,12 +15,23 @@ MovieApp uses a number of open source projects to work properly:
 * [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)) -  is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
 
 # Installation
-MovieApp application requires [Android Studio](https://developer.android.com/studio?gclid=CjwKCAiAzKqdBhAnEiwAePEjkiHOIliw_kLScAIojd6sJZdP3ewJAR-5XJ6CSYO3e6SLFIMoQ5L4aBoC9rsQAvD_BwE&gclsrc=aw.ds) IDE to run.
+MovieApp application requires [Android Studio IDE](https://developer.android.com/studio?gclid=CjwKCAiAzKqdBhAnEiwAePEjkiHOIliw_kLScAIojd6sJZdP3ewJAR-5XJ6CSYO3e6SLFIMoQ5L4aBoC9rsQAvD_BwE&gclsrc=aw.ds) to run.
 
 ### Clone the repositories
 ```sh
 $ git clone https://github.com/catalyn98/MovieApp-application.git
 ```
+# The data model and its description
+The data provided by this application is obtained through the API offered by [THEMOVIEDB.ORG](https://www.themoviedb.org). The data required to display movie details is returned to the application in the JSON format.
+
+# Technical specifications
+* IDE used: Android Studio, version 2020.3.
+* Used APIs from [THEMOVIEDB.ORG](https://www.themoviedb.org) to obtain movie information in JSON format through an API access key.
+* [Room](https://developer.android.com/training/data-storage/room) was used to implement a local database for saving favorite movies. By room repository, data access is done locally through SQLite and by retrofit, data access is done from a server using networking.
+* The Moshi library was used for easier conversion from JSON format to Java objects.
+* The Glide library was used for image loading.
+* Data Access Objects (DAO) was used for interacting with the database and handling storage. 
+* Data Transfer Objects (DTO) was used for data retrieval, serialization, deserialization, and transfer.
 
 # Web application screenshots 
 | <p align="center">**Splash screen**</p> | <p align="center">**Prefernces screen**</p> | <p align="center">**Choose actors screen**</p> |
