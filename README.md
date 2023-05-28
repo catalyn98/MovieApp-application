@@ -1,8 +1,8 @@
 <h1 align="center">
-MovieApp
+ MovieApp
 </h1>
 <p align="center">
-Android Studio, Kotlin
+ Android Studio, Kotlin
 </p>
 
 <p align="center">
@@ -23,33 +23,10 @@ $ git clone https://github.com/catalyn98/MovieApp-application.git
 ```
 
 # Web application screenshots 
-
-<p>1.Splash screen</p>
-<img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/1.Splashscreen.jpg" width="330" height="650"/>
-
-<details>
-  <summary>More Screenshots</summary>
-  <p>2.Prefernces screen</p>
-  <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/2.PreferencesScreen.jpg" width="330" height="650"/>
-
-  <p>3.Choose actors screen</p>
-  <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/3.ChooseActorsScreen.jpg" width="330" height="650"/>
-
-  <p>4.Choose genres screen</p>
-  <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/4.ChooseGenresScreen.jpg" width="330" height="650"/>
-
-  <p>5.List of movies screen</p>
-  <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/5.ListOfMoviesScreen.jpg" width="330" height="650"/>
-
-  <p>6.Details movies screen</p>
-  <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/6.DetailsMoviesScreen.jpg" width="330" height="650"/>
-
-  <p>7.Favourites movies screen</p>
-  <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/7.FavoritesMoviesScreen.jpg" width="330" height="650"/>
-
-  <p>8.Watched movies screen</p>
-  <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/8.WatchedMoviesScreen.jpg" width="330" height="650"/>
-
-  <p>9.Application menu</p>
-  <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/9.ApplicationMenu.jpg" width="330" height="650"/>
-</details>
+| <p align="center">**Splash screen**</p> | <p align="center">**Prefernces screen**</p> | <p align="center">**Choose actors screen**</p> |
+| ------------ | ------------ | ------------ |
+| <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/1.Splashscreen.jpg" width="330" height="650"/>  |  <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/2.PreferencesScreen.jpg" width="330" height="650"/> | <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/3.ChooseActorsScreen.jpg" width="330" height="650"/> |
+| <p align="center">**Choose genres screen**</p> | <p align="center">**List of movies screen**</p> | <p align="center">**Details movies screen**</p> |
+| <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/4.ChooseGenresScreen.jpg" width="330" height="650"/>| <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/5.ListOfMoviesScreen.jpg" width="330" height="650"/> | <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/6.DetailsMoviesScreen.jpg" width="330" height="650"/> |
+| <p align="center">**Favourites movies screen**</p> | <p align="center">**Watched movies screen**</p> | <p align="center">**Application menu**</p> |
+| <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/7.FavoritesMoviesScreen.jpg" width="330" height="650"/> | <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/8.WatchedMoviesScreen.jpg" width="330" height="650"/> | <img src="https://github.com/catalyn98/MovieApp-application/blob/main/Screenshots/9.ApplicationMenu.jpg" width="330" height="650"/> |
