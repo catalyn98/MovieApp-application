@@ -14,13 +14,6 @@ MovieApp uses a number of open source projects to work properly:
 * [Android Studio](https://en.wikipedia.org/wiki/Android_Studio) - is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development.
 * [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)) -  is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
 
-# Installation
-MovieApp application requires [Android Studio IDE](https://developer.android.com/studio?gclid=CjwKCAiAzKqdBhAnEiwAePEjkiHOIliw_kLScAIojd6sJZdP3ewJAR-5XJ6CSYO3e6SLFIMoQ5L4aBoC9rsQAvD_BwE&gclsrc=aw.ds) to run.
-
-### Clone the repositories
-```sh
-$ git clone https://github.com/catalyn98/MovieApp-application.git
-```
 # The data model and its description
 The data provided by this application is obtained through the API offered by [THEMOVIEDB.ORG](https://www.themoviedb.org). The data required to display movie details is returned to the application in the JSON format.
 
